@@ -1,0 +1,9 @@
+LOG DE PROCESAMIENTO - 2025-10-24 14:21:42
+======================================================================
+
+NIT: 891201578 - Error - Categoría 'PRESTADOR DE SERVICIOS DE SALUD' no encontrada en indicadores - 2025-10-24 14:21:37
+NIT: 901447598 - Error - Categoría 'PRESTADOR DE SERVICIOS DE SALUD' no encontrada en indicadores - 2025-10-24 14:21:37
+NIT: 900217078 - Procesado correctamente - 2025-10-24 14:21:38
+NIT: 900828394 - Error - Categoría 'PRESTADOR DE SERVICIOS DE SALUD' no encontrada en indicadores - 2025-10-24 14:21:38
+NIT: 890933408 - Procesado correctamente - 2025-10-24 14:21:40
+NIT: 890982134 - Procesado correctamente - 2025-10-24 14:21:42

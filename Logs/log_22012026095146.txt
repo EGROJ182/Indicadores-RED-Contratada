@@ -1,0 +1,5 @@
+LOG DE PROCESAMIENTO - 2026-01-22 09:51:46
+======================================================================
+
+NIT: 80041361 - Error - NIT no encontrado en proveedores.xlsx - 2026-01-22 09:51:46
+NIT: 901927493 - Error - NIT no encontrado en proveedores.xlsx - 2026-01-22 09:51:46

@@ -1,0 +1,5 @@
+LOG DE PROCESAMIENTO - 2025-09-23 20:59:34
+======================================================================
+
+NIT: 890703630 - Error - [Errno 2] No such file or directory: 'D:\\Proyecto... - 2025-09-23 20:59:34
+NIT: 839000145 - Error - [Errno 2] No such file or directory: 'D:\\Proyecto... - 2025-09-23 20:59:34

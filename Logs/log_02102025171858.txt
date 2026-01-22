@@ -1,0 +1,6 @@
+LOG DE PROCESAMIENTO - 2025-10-02 17:18:58
+======================================================================
+
+NIT: 900488920.0 - Error - NIT no encontrado en proveedores.xlsx - 2025-10-02 17:18:58
+NIT: 900452452.0 - Error - NIT no encontrado en proveedores.xlsx - 2025-10-02 17:18:58
+NIT: 890703630.0 - Error - NIT no encontrado en proveedores.xlsx - 2025-10-02 17:18:58

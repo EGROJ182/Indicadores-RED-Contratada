@@ -1,0 +1,4 @@
+LOG DE PROCESAMIENTO - 2025-11-06 18:04:50
+======================================================================
+
+NIT: 900435790 - Error - Categoría 'PRESTADOR DE SERVICIOS DE SALUD' no encontrada en indicadores - 2025-11-06 18:04:50
